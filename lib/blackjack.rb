@@ -24,13 +24,16 @@ def get_user_input
 end
 
 def end_game
-  card total == 
+  card total == 27 
+  
   
   
   # code #end_game here
 end
 
 def initial_round
+  
+  
   # code #initial_round here
 end
 
