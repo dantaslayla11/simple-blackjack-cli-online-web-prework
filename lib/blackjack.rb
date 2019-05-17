@@ -1,12 +1,10 @@
 def welcome
  puts "Welcome to the Blackjack Table"
- 
-end
+ end
 
 def deal_card
   rand(1..11)
-    
-end
+    end
 
 def display_card_total
  
@@ -16,15 +14,11 @@ end
 
 def prompt_user
  puts "Type 'h' to hit or 's' to stay"
-  
-end
+  end
 
 def get_user_input
- 
- 
- 
- 
-end
+  gets.chomp
+ end
 
 def end_game
   
