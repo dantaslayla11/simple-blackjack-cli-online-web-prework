@@ -4,7 +4,8 @@ def welcome
 end
 
 def deal_card
-  
+  20.times do
+    
   # code #deal_card here
 end
 
