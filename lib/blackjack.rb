@@ -25,8 +25,8 @@ def end_game
   end
 
 def initial_round
-  
-end 
+  deal_card == 12
+  end 
 
 def hit?
   
