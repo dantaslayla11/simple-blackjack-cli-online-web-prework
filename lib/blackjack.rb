@@ -9,6 +9,7 @@ def deal_card
 end
 
 def display_card_total
+  card total == 7 
   
   # code #display_card_total here
 end
